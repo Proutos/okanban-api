@@ -1,0 +1,5 @@
+LISTE: nom
+APPARTIENT À, 11 CARTE, 0N LISTE: position
+CARTE: titre, couleur
+CATEGORISE, 0N LABEL, 0N CARTE
+LABEL: libellé, couleur
